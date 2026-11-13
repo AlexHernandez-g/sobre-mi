@@ -44,3 +44,5 @@ Más allá del código y el estudio, me gusta disfrutar de mi tiempo libre reali
 ## Mis hobbies
 * Jugar fútbol
 * Cocinar
+
+* Bailar
