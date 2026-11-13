@@ -39,3 +39,8 @@ Más allá del código y el estudio, me gusta disfrutar de mi tiempo libre reali
 * **Mi Receta**: Aplicación web responsiva creada con React, Vite y React Router.
 * **Spilar Movie**: Catálogo de películas maquetado con HTML5 y CSS Grid.
 * **Juegos y Utilidades JS**: Proyectos en JavaScript Vanilla como un generador de contraseñas y un juego de adivinar el número.
+
+
+## Mis hobbies
+* Jugar fútbol
+* Cocinar
